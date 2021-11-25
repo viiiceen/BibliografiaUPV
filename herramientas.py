@@ -15,3 +15,8 @@ p.add_run('negrita').bold =True
 p.add_run('cursiva').italic =True  
 
 p.add_run('versalita').small_caps =True 
+
+#guardar 
+document.save('ejemplo.docx') 
+
+
